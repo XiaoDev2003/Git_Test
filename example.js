@@ -1,6 +1,6 @@
-function greet() {
-    console.log("Hello");
-}
 function farewell() {
     console.log("Goodbye");
+}
+function greet() {
+    console.log("Hello");
 }
